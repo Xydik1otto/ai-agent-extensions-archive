@@ -4,7 +4,7 @@
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 297660,
+      "stars": 297673,
       "lang": "JavaScript",
       "topics": [
         "ai-agents",
@@ -22,7 +22,7 @@
       "full_name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 229771,
+      "stars": 229780,
       "lang": null,
       "topics": [],
       "pushed": "2026-04-20",
@@ -33,7 +33,7 @@
       "full_name": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-      "stars": 152083,
+      "stars": 152085,
       "lang": "Rust",
       "topics": [
         "ai-tools",
@@ -51,7 +51,7 @@
       "full_name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained,",
-      "stars": 142806,
+      "stars": 142812,
       "lang": "Python",
       "topics": [
         "ai-agents",
@@ -69,7 +69,7 @@
       "full_name": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "stars": 117684,
+      "stars": 117688,
       "lang": "Go",
       "topics": [
         "ai",
@@ -87,7 +87,7 @@
       "full_name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-      "stars": 93769,
+      "stars": 93775,
       "lang": "JavaScript",
       "topics": [
         "agent-skills",
@@ -141,7 +141,7 @@
       "full_name": "hesreallyhim/awesome-claude-code",
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable sho",
-      "stars": 57304,
+      "stars": 57305,
       "lang": "Python",
       "topics": [
         "agent-skills",
@@ -177,7 +177,7 @@
       "full_name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 46201,
+      "stars": 46203,
       "lang": "Python",
       "topics": [
         "claude-code",
@@ -228,7 +228,7 @@
       "full_name": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
       "desc": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 ",
-      "stars": 33541,
+      "stars": 33542,
       "lang": "JavaScript",
       "topics": [
         "antigravity",
@@ -246,7 +246,7 @@
       "full_name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "desc": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, ",
-      "stars": 29341,
+      "stars": 29342,
       "lang": "Python",
       "topics": [
         "agent-plugins",
@@ -300,7 +300,7 @@
       "full_name": "VoltAgent/awesome-claude-code-subagents",
       "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
       "desc": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-      "stars": 26348,
+      "stars": 26349,
       "lang": "Shell",
       "topics": [
         "ai-agent-framework",
@@ -398,7 +398,7 @@
       "full_name": "gamedev-skills/awesome-gamedev-agent-skills",
       "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
       "desc": "77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that lo",
-      "stars": 6897,
+      "stars": 6898,
       "lang": "Python",
       "topics": [
         "agent-skills",
@@ -416,7 +416,7 @@
       "full_name": "FlorianBruniaux/claude-code-ultimate-guide",
       "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
       "desc": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.",
-      "stars": 6362,
+      "stars": 6363,
       "lang": "Python",
       "topics": [
         "agentic-coding",
@@ -476,7 +476,7 @@
       "full_name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "Public repository for Agent Skills",
-      "stars": 187650,
+      "stars": 187655,
       "lang": "Python",
       "topics": [
         "agent-skills"
@@ -489,7 +489,7 @@
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 185022,
+      "stars": 185026,
       "lang": "JavaScript",
       "topics": [
         "agent-skills",
@@ -507,7 +507,7 @@
       "full_name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
-      "stars": 113433,
+      "stars": 113436,
       "lang": "JavaScript",
       "topics": [
         "agent-skills",
@@ -525,7 +525,7 @@
       "full_name": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "stars": 110458,
+      "stars": 110468,
       "lang": "JavaScript",
       "topics": [
         "agent-skills",
@@ -543,7 +543,7 @@
       "full_name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "stars": 103590,
+      "stars": 103602,
       "lang": "Rust",
       "topics": [
         "agent-skills",
@@ -578,7 +578,7 @@
       "full_name": "vercel-labs/agent-skills",
       "url": "https://github.com/vercel-labs/agent-skills",
       "desc": "Vercel's official collection of agent skills",
-      "stars": 33578,
+      "stars": 33579,
       "lang": "JavaScript",
       "topics": [],
       "pushed": "2026-10-28",
@@ -618,7 +618,7 @@
       "full_name": "ConardLi/garden-skills",
       "url": "https://github.com/ConardLi/garden-skills",
       "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 14024,
+      "stars": 14029,
       "lang": "JavaScript",
       "topics": [
         "agent",
@@ -636,7 +636,7 @@
       "full_name": "jakubkrehel/skills",
       "url": "https://github.com/jakubkrehel/skills",
       "desc": "A collection of agent skills that help you build great interfaces.",
-      "stars": 10944,
+      "stars": 10948,
       "lang": "Markdown",
       "topics": [],
       "pushed": "2026-11-02",
@@ -739,7 +739,7 @@
       "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
       "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
       "desc": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.A",
-      "stars": 4930,
+      "stars": 4929,
       "lang": "Stata",
       "topics": [
         "academic-research",
@@ -936,7 +936,7 @@
       "full_name": "jnMetaCode/agency-agents-zh",
       "url": "https://github.com/jnMetaCode/agency-agents-zh",
       "desc": "🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
-      "stars": 21893,
+      "stars": 21894,
       "lang": "Shell",
       "topics": [
         "agency-orchestrator",
@@ -1065,7 +1065,7 @@
       "full_name": "mhfed/vn-law-check",
       "url": "https://github.com/mhfed/vn-law-check",
       "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "stars": 433,
+      "stars": 436,
       "lang": "Shell",
       "topics": [
         "agent-md",
@@ -1268,7 +1268,7 @@
       "full_name": "github/awesome-copilot",
       "url": "https://github.com/github/awesome-copilot",
       "desc": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-      "stars": 40824,
+      "stars": 40826,
       "lang": "JavaScript",
       "topics": [
         "agent-skills",
@@ -1523,7 +1523,7 @@
       "full_name": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "desc": "Agent skill that removes signs of AI-generated writing from text",
-      "stars": 65148,
+      "stars": 65152,
       "lang": "Python",
       "topics": [
         "agent-skills",
@@ -1541,7 +1541,7 @@
       "full_name": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medici",
-      "stars": 56196,
+      "stars": 56199,
       "lang": "Python",
       "topics": [
         "agent-skills",
@@ -1559,7 +1559,7 @@
       "full_name": "kepano/obsidian-skills",
       "url": "https://github.com/kepano/obsidian-skills",
       "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
-      "stars": 50801,
+      "stars": 50803,
       "lang": null,
       "topics": [
         "agents",
@@ -1577,7 +1577,7 @@
       "full_name": "Imbad0202/academic-research-skills-codex",
       "url": "https://github.com/Imbad0202/academic-research-skills-codex",
       "desc": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
-      "stars": 14083,
+      "stars": 14084,
       "lang": "Python",
       "topics": [
         "academic-pipeline",
@@ -1667,7 +1667,7 @@
       "full_name": "runkids/skillshare",
       "url": "https://github.com/runkids/skillshare",
       "desc": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
-      "stars": 2913,
+      "stars": 2914,
       "lang": "Go",
       "topics": [
         "agent-plugins",
@@ -1721,7 +1721,7 @@
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stars": 2285,
+      "stars": 2286,
       "lang": "Python",
       "topics": [
         "claude",
@@ -1887,7 +1887,7 @@
       "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub",
-      "stars": 35632,
+      "stars": 35635,
       "lang": "Python",
       "topics": [
         "ai-agents",
@@ -1941,7 +1941,7 @@
       "full_name": "yetone/magpie",
       "url": "https://github.com/yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": 30358,
+      "stars": 30362,
       "lang": "Go",
       "topics": [
         "claude-code",
@@ -2013,7 +2013,7 @@
       "full_name": "HarnessMD/munder-difflin",
       "url": "https://github.com/HarnessMD/munder-difflin",
       "desc": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions",
-      "stars": 9379,
+      "stars": 9380,
       "lang": "JavaScript",
       "topics": [
         "agent-harness",
@@ -2729,7 +2729,7 @@
       "full_name": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "stars": 78908,
+      "stars": 78909,
       "lang": "Python",
       "topics": [
         "agent",
@@ -2747,7 +2747,7 @@
       "full_name": "upstash/context7",
       "url": "https://github.com/upstash/context7",
       "desc": "Context7 Platform -- Up-to-date docs for AI agents",
-      "stars": 64235,
+      "stars": 64236,
       "lang": "TypeScript",
       "topics": [
         "llm",
@@ -2763,7 +2763,7 @@
       "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "desc": "Chrome DevTools for coding agents",
-      "stars": 54835,
+      "stars": 54836,
       "lang": "TypeScript",
       "topics": [
         "browser",
@@ -2781,7 +2781,7 @@
       "full_name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "desc": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",
-      "stars": 48161,
+      "stars": 48162,
       "lang": "C",
       "topics": [
         "aider",
@@ -2815,7 +2815,7 @@
       "full_name": "CoplayDev/unity-mcp",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "stars": 15731,
+      "stars": 15732,
       "lang": "C#",
       "topics": [
         "ai",
@@ -3670,7 +3670,7 @@
       "full_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 209617,
+      "stars": 209618,
       "lang": "TypeScript",
       "topics": [
         "ai",
@@ -4074,7 +4074,7 @@
       "full_name": "EverMind-AI/EverOS",
       "url": "https://github.com/EverMind-AI/EverOS",
       "desc": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
-      "stars": 13820,
+      "stars": 13821,
       "lang": "Python",
       "topics": [
         "agent-memory",

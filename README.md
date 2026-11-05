@@ -110,7 +110,7 @@
 | [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) | 583 | TypeScript | Rules | A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages |
 | [hanlulong/stata-mcp](https://github.com/hanlulong/stata-mcp) | 520 | Python | Extensions | Stata MCP Extension for VS Code, Cursor, and Antigravity IDE |
 | [blazejkustra/react-compiler-marker](https://github.com/blazejkustra/react-compiler-marker) | 460 | TypeScript | Extensions | Universal IDE extension that shows which React components are optimized by the React Compiler ✨ |
-| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 433 | Shell | Rules | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline |
+| [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | 436 | Shell | Rules | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline |
 | [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) | 383 | — | Rules | This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control se |
 | [kleosr/cursorkleosr](https://github.com/kleosr/cursorkleosr) | 325 | — | Rules | Make AI Development Feel Natural in Cursor |
 | [tomlin7/biscuit](https://github.com/tomlin7/biscuit) | 266 | Python | Extensions | biscuit is a native, extensible, AI code editor. lightweight &lt;20 mb in size. install and start using in seconds. |
@@ -152,7 +152,7 @@
 
 | Repository | ⭐ | Lang | Type | Description |
 |---|---|---|---|---|
-| [blader/humanizer](https://github.com/blader/humanizer) | 65.1k | Python | Skills | Agent skill that removes signs of AI-generated writing from text |
+| [blader/humanizer](https://github.com/blader/humanizer) | 65.2k | Python | Skills | Agent skill that removes signs of AI-generated writing from text |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 56.2k | Python | Skills | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medici |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 50.8k | — | Skills | Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. |
 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 14.1k | Python | Codex | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
